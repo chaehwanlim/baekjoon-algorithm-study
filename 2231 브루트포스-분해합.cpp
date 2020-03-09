@@ -24,8 +24,9 @@ int main() {
         i++;
     }
 
-    if (i == n)
+    if (i == n) {
         cout << 0;
+    }
     else
     {
         cout << i;
