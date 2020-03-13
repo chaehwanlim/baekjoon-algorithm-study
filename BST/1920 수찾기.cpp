@@ -45,7 +45,7 @@ int main() {
   cin >> m;
   
   for(int i=0; i<n; i++) {
-    scanf("%1d ", &input);
+    scanf("%1d", &input);
     cout << binarySearch(input, n) << endl;
   }
   
