@@ -21,7 +21,7 @@ int main() {
     
   }
 
-  cout << dp[15];
+  cout << dp[k];
 
 
   return 0;
